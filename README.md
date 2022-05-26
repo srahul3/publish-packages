@@ -8,7 +8,7 @@
 # Publish to GitHub Packages
 
 _Use GitHub Actions to publish your project to a Docker image._
-
+_Use https://github.com/users/srahul3/packages to view your packages_
 <!--
   <<< Author notes: Start of the course >>>
   Include start button, a note about Actions minutes,
